@@ -1,0 +1,24 @@
+body {
+    margin: 10%
+}
+
+.intro {
+    text-align: center;
+}
+
+.name {
+    text-decoration: underline;
+}
+
+.image {
+    max-width: 400px;
+    max-height: 500px;
+    border: 5px dotted #59b1d1;
+}
+
+button {
+    padding: 10px;
+    margin-right: 10px;
+    background-color: rgb(147, 108, 141);
+}
+
